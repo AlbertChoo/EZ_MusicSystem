@@ -7,7 +7,7 @@ This is a basic music system with four functions:
 3. Display sorted music track list in ascending order based on index number
 NOTE: The index number will based on the insertion sequences
 
-As for the Music Track list system, I implemented struct and linked list to display it. Full code are provided.
+As for the Music Track list system, I implemented struct and linked list to display it. Full code are provided in "EZ_Music_System.cpp".
 I apply some algorithm similar to selection sort to sort the music track list in ascending order.
 
 There is no VALIDATION in this code, you are required to add the validation by yourselves. 
